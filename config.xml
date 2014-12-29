@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+	<fileInfo>
+		<fileLocation>C:\Users\Chris\Downloads\</fileLocation>
+		<fileName>FRF - Sheet1.csv</fileName>
+		<destination>C:\Users\Chris\Documents\Visual Studio 2013\Projects\MTGWeb\MTGWeb\app\carddata\CardsFRF.js</destination>
+		<seperator>,</seperator>
+		<variableName>FRF</variableName>
+		<variableName>FRF</variableName>
+	</fileInfo>
+</config>
